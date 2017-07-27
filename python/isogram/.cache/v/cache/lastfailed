@@ -1,0 +1,5 @@
+{
+  "isogram_test.py::TestIsogram::test_duplicated_character_in_the_middle": true, 
+  "isogram_test.py::TestIsogram::test_word_with_duplicated_character_in_mixed_case": true, 
+  "isogram_test.py::TestIsogram::test_word_with_one_duplicated_character": true
+}
